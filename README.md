@@ -1,0 +1,1 @@
+Learn 'How to create a striking neon text display using only HTML & CSS'. This effect, known for its simplicity, adds a cool design element to your web page texts. By utilizing the text-shadow property and specific color combinations, your text will continuously glow, reminiscent of vibrant neon lights.
